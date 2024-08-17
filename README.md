@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pbzdyN2R6djc3eWVzOTJ6cDRtZmoyMXo3Nmw3ODFxNGtkNWtyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="100"/>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ak-github-dev)](https://git.io/streak-stats)
