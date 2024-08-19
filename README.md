@@ -140,4 +140,13 @@ stack logos
   <a href="https://x.com/ayeba1210?s=21">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://x.com/ayeba1210?s=21">
+    <img src="https://img.shields.io/badge/Scaler-blue?style=for-the-badge&logo=Scaler&logoColor=white" alt="Scaler Badge"/>
+  </a>
+
+  <a href="https://x.com/ayeba1210?s=21">
+    <img src="https://assets-v2.scaler.com/assets/scaler/svg/scaler-logo-new-15cddca2e0196e677600f6671b42a288bdc89c398adc29fe82b7441503c4b129.svg.gz" width="100" alt="Scaler Badge"/>
+  </a>
 </div>
+
+
