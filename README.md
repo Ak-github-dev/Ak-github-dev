@@ -16,12 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100"/>
+  <a href="https://leetcode.com/u/AamirKolhar/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100"/>
+  </a>
 </div>
 
 <div id="header" align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" width="100"/>
+  <a href="https://leetcode.com/u/AamirKolhar/">
+    <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" width="100"/>
+  </a>
 </div>
+
+
+
 
 
 <div id="header" align="center">
