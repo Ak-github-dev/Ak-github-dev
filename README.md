@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ak-github-dev)](https://git.io/streak-stats)
 
+<div id="badges">
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=Ak-github-dev&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
 
 
 <div id="badges">
