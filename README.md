@@ -56,6 +56,9 @@ Here are some ideas to get you started:
 ### :trophy: Acievements and Progress :
 <div id="header" align="center">
   <a href="https://leetcode.com/u/AamirKolhar/">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="100"/>
+  </a>
+  <a href="https://leetcode.com/u/AamirKolhar/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100"/>
   </a>
   <a href="https://leetcode.com/u/AamirKolhar/">
