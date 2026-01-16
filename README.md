@@ -75,7 +75,10 @@ Here are some ideas to get you started:
 
 
 
-
+```mermaid
+graph TD;
+    A[Btech]--EnI--->B[Wipro];
+```
 
 
 
